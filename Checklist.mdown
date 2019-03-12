@@ -1,0 +1,58 @@
+CheckList
+
+• Part I
+Implement the basic skeleton of the login page and create account page by using HTML and basic
+JavaScript (no decoration of web page by using CSS is needed).
+• Part II
+Implement the functionalities of the system, which mainly consists of 3 components/services: Buy
+ticket(s), movie review and purchase history. Majority of functions/services are created by using the
+server-side techniques: PHP, MySQL, use of session and AJAX.
+• Part III
+Design the layout of the web pages by using CSS and responsive web design. In this part, you should
+use CSS to decorate all web pages. In addition, you are required to apply responsive web design to the
+series of the web pages that are related to “Buy a ticket”.
+
+Part I (4 points) 
+
+Y • Correctness of “index.html” (2 points)
+Y • Correctness of “createaccount.html” (2 points)
+
+Part II (12 points) 
+
+Y • Correct functionality of verifying user’s login into the system
+(verifyLogin.php) (1 point)
+Y • Correct functionality of users’ account creation (create.php) (1 point)
+Y • Correct functionality of the main page (main.php) (0.5 points)
+Y • Correct functionality of the welcome page in “Buy A Ticket”
+(buywelcome.php) (1 point)
+Y • Correct functionality of the seat selection page in “Buy A Ticket”
+(seatplantry.php) (2.5 points)
+Y • Correct functionality of buying a ticket page in “Buy A Ticket”
+(buyticket.php) (1 point)
+Y • Correct functionality of the confirm page in “Buy A Ticket” (confirm.php)
+(1 point)
+Y • Correct functionality of the comment page in “Movie Review”
+(comment.php) (2 points)
+Y • Correct functionality of retrieving the comment in
+“comment_retrieve.php” (0.5 points)
+Y • Correct functionality of submitting the comment in
+“comment_submit.php”
+(0.5 points)
+Y • Correct functionality of retrieving user’s purchase history in “history.php”
+(0.5 points)
+Y • Correct functionality of logout in “logout.php” (0.5 points)
+
+Part III (12 points) 
+Y • Use of CSS in the design of index.html, createaccount.html and main.php
+(1 point)
+Y • Use of CSS in the design of comment.php (1 point)
+Y • Use of CSS in the design of history.php
+(1 point)
+Y • Correct implementation of responsive web features and use of CSS in the
+design of buywelcome.php (3 points)
+Y • Correct implementation of responsive web features and use of CSS in the
+design of seatplantry.php (4 points)
+Y • Correct implementation of responsive web features and use of CSS in the
+design of buyticket.php (1 point)
+Y • Correct implementation of responsive web features and use of CSS in the
+design of confirm.php (1 point)
